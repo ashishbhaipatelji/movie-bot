@@ -231,14 +231,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b>🚨 Eᴍᴇʀɢᴇɴᴄʏ!</b>
-
-<b>Dᴏᴡɴʟᴏᴀᴅ Aɴʏ Mᴏᴠɪᴇ Wɪᴛʜᴏᴜᴛ Aɴʏ Aᴅs  🔥</b>
-<b>Jᴜsᴛ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ ⤵️</b>
-
-⏤‌‌𝗝⌡𝗼𝗶𝗻 𝗣𝗿𝗲𝗺𝗶𝘂𝗺  <a href='https://t.me/+OEb5ANO9PW42NDJl'>ᴍᴏᴠɪᴇꜱ ɢʀᴏᴜᴘ</a>
-
-🎬 <b>{file_name}</b>"""
+    CAPTION = """<b><a href="https://t.me/+Ze4yMyXC_VxiYzU1">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/+AdwUgYurZJVjMDBl">[ Backup Group ]</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
