@@ -38,7 +38,7 @@ PREMIUM_LOGS = int(environ.get('PREMIUM_LOGS', '-1003915777136'))
 # koi verify karega to Notification yhi pr aayega Bhai Log Shamjhe
 
 LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', '-1003915777136'))
-LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '--1003915777136'))
+LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-1003915777136'))
 MOVIE_UPDATE_CHANNEL = int(environ.get('MOVIE_UPDATE_CHANNEL', '-1004443287737'))
 
 #############################################    Sᴛᴇᴘ Nᴏ 4   ######################################################################################################
